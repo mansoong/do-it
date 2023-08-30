@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1033827984975",
+    "project_id": "do-it-efe08",
+    "storage_bucket": "do-it-efe08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033827984975:android:24dd47f03d547bec29ec3a",
+        "android_client_info": {
+          "package_name": "com.example.do_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033827984975-e7coh7e3g6v1hs9ng6s7vls7rvonoo46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.do_it",
+            "certificate_hash": "d52c30c76ea77c5b2350b4e7777af9dfdccac443"
+          }
+        },
+        {
+          "client_id": "1033827984975-5tq92u1rvbs6uku48rf5uk2g1mgtttb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSBIW9ziDaLiuWmXtqmUpW9ZV_1JcHCec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033827984975-5tq92u1rvbs6uku48rf5uk2g1mgtttb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1033827984975-ua9j4qd5veumddmfr4i6i5mf69jtkf94.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doIt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
